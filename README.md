@@ -7,6 +7,9 @@ This is a self-contained, offline-capable FastAPI application wrapper that hosts
 Below is a live showcase of querying the model, from terminal:
 
 <p align="center">
+  <img src="./img/flowchart.png" alt="AI Model flowchart" width="800">
+
+<p align="center">
   <img src="./gif/ai-model.gif" alt="AI Model Demonstration" width="800">
 
 ---
