@@ -2,7 +2,7 @@
 Creation Date: 2026-05-25
 Last Modified: 2026-05-25
 Description: Minimal FastAPI wrapper to expose an AI agent endpoint using a local SmolLM2 model.
-Author: AI Assistant
+Author: enigmak9
 """
 
 import os
