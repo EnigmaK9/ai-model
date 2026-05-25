@@ -2,6 +2,13 @@
 
 This is a self-contained, offline-capable FastAPI application wrapper that hosts Hugging Face's **SmolLM2-135M-Instruct** model. It runs entirely on your local CPU without requiring an external internet connection or third-party LLM API keys.
 
+## 📹 Visual Demonstration
+
+Below is a live showcase of the simulator comparing the uninformed, radial expansion of Dijkstra vs. the targeted, heuristic-driven search of A*:
+
+<p align="center">
+  <img src="./gif/ai-model.mp4" alt="AI Model Demonstration" width="800">
+
 ---
 
 ## Prerequisites
