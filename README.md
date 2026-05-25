@@ -4,7 +4,7 @@ This is a self-contained, offline-capable FastAPI application wrapper that hosts
 
 ## 📹 Visual Demonstration
 
-Below is a live showcase of the simulator comparing the uninformed, radial expansion of Dijkstra vs. the targeted, heuristic-driven search of A*:
+Below is a live showcase of querying the model, from terminal:
 
 <p align="center">
   <img src="./gif/ai-model.mp4" alt="AI Model Demonstration" width="800">
